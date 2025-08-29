@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/yamadharma/articles-2025--quaternion-code/compare/v1.0.1...v1.0.2) (2025-08-29)
+
+
+### Bug Fixes
+
+* **readme:** add concept doi ([362bcaa](https://github.com/yamadharma/articles-2025--quaternion-code/commit/362bcaa314836a77f0afbd6944c1be5673980319))
+
+
+
 ## [1.0.1](https://github.com/yamadharma/articles-2025--quaternion-code/compare/v1.0.0...v1.0.1) (2025-08-27)
 
 
